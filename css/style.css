@@ -8,7 +8,7 @@ RESET
     box-sizing: border-box;
 }
 main {
-    height: 100vh;
+    height: calc(100vh - 2.35rem);
     display: flex;
     justify-content: center;
     align-items: center;
@@ -26,7 +26,6 @@ main {
 .img-on {
     width: 73.125rem;
     height: 21.875rem;
-    display: none;
 }
 .active {
     display: block;
