@@ -17,7 +17,7 @@ btnUp.addEventListener('click', function(){
 
 btnDown.addEventListener('click', function(){
     
-    if(activeImg < 6 && activeImg > 1){
+    if(activeImg <= 5 && activeImg > 1){
         activeImg--;
     }else{
         activeImg = 5;
