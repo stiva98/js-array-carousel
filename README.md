@@ -15,7 +15,7 @@ Al click dell'utente sulle frecce, il programma cambierà l'immagine attiva, che
 
 BONUS 1:
 Aggiungere il ciclo infinito del carosello. Ovvero se è attiva la prima immagine e l'utente clicca la freccia per andare all'immagine 
-precedente, dovrà comparire l'ultima immagine dell'array e viceversa.
+precedente, dovrà comparire l'ultima immagine dell'array e viceversa. OK
 
 BONUS 2:
 Aggiungere la visualizzazione di tutte le thumbnails sulla destra dell'immagine grande attiva, come nello screenshot proposto. Tutte le miniature avranno un layer di opacità scura, tranne quella corrispondente all'immagine attiva, che invece avrà un bordo colorato.
